@@ -1,18 +1,18 @@
-//UBAH UBAH DISINI BRO JANGAN LUPA SUBREK YT DELTA TECH//
+//CHANGEMENT ICI BRO N'OUBLIEZ PAS DE SUIVRE LA CHAINE YT https://www.youtube.com/JokerApocalypse
 require("./all/module")
-global.owner = "6282142902746" 
-global.namaCreator = "Always Viczz⚡" 
+global.owner = "2250500107362" 
+global.namaCreator = "DR.XENON" 
 global.autoJoin = false
 global.antilink = false
-global.versisc = '2.0'
+global.versisc = '1.0'
 global.codeInvite = ""
-global.isLink = 'wa.me/6282142902746' 
+global.isLink = 'wa.me/2250500107362' 
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
-global.packname = "Always Viczz⚡" 
-global.author = "IG:@viczzxcrash" 
-global.jumlah = "5" 
-global.namabot = "ViczzXcrash⚡" 
+global.packname = "DR.XENON"
+global.author = "IG:@_drxenon
+global.jumlah = "1" 
+global.namabot = "XENON BUG V1" 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
