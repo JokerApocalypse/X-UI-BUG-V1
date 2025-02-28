@@ -7,7 +7,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'ↈLynnZxDᬊᬁ',
+"newsletterName": 'DR.XENON CRASHᬊᬁ',
 "serverMessageId": 1
 },
 },
@@ -20,7 +20,7 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "ⓧLynnZxD༻"
+"text": "DR.XENON CRASH"
 },
 "nativeFlowMessage": {
 "buttons": [
@@ -50,7 +50,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'ↈLynnZxDᬊᬁ',
+"newsletterName": 'DR.XENON CRASHᬊᬁ',
 "serverMessageId": 1
 },
 },
@@ -63,13 +63,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "ⓧLynnZxD༻"
+"text": "ⓧDR.XENON CRASH"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"LynnZxD\nSinilah Wahai Anak Kecil😋😘\",\"id\":\".killtod\"}"
+"buttonParamsJson": "{\"display_text\":\"LDR.XENON CRASH\nIt's Done Bro.\",\"id\":\".killtod\"}"
 }
 ],
 "messageParamsJson": ""
